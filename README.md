@@ -1,4 +1,0 @@
-# Amna Khan
-### Email: amnak@uark.edu
-**This is sorta cool**
-[Synthesis and Characterization of Supercapacitor Materials from Soy](https://www.mdpi.com/2673-3293/2/4/34)
